@@ -17,3 +17,9 @@ var b;
 b = a;
 
 // Only change code below this line
+
+var a = 9;
+
+
+var myFirstName = "Oksana";
+var myLastName = "Kovalchuk";

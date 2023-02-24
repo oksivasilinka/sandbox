@@ -128,3 +128,7 @@ const myStr3 = "This is the start. " + "This is the end."; // Change this line
 
 let myStr4 = "This is the first sentence. ";
 myStr4 += "This is the second sentence.";
+
+// Only change code below this line
+const myName = "Oksana";
+const myStr5 = "My name is " + myName + " and I am well!";

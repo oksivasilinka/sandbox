@@ -137,3 +137,10 @@ const myStr5 = "My name is " + myName + " and I am well!";
 const someAdjective = "good";
 let myStr6 = "Learning to code is ";
 myStr6 += someAdjective;
+
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;

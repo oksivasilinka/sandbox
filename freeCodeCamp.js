@@ -158,3 +158,9 @@ let myStr7 = "Jello World";
 // Only change code below this line
 myStr7 = "Hello World"; // Change this line
 // Only change code above this line
+
+// Setup
+const lastName2 = "Lovelace";
+
+// Only change code below this line
+const thirdLetterOfLastName = lastName2[2]; // Change this line

@@ -151,3 +151,10 @@ const lastName1 = "Lovelace";
 
 // Only change code below this line
 firstLetterOfLastName = lastName1[0]; // Change this line
+
+// Setup
+let myStr7 = "Jello World";
+
+// Only change code below this line
+myStr7 = "Hello World"; // Change this line
+// Only change code above this line

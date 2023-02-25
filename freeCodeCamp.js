@@ -188,3 +188,6 @@ const wordBlanks = myAdjective + " " + myNoun + " can " +  myVerb + " very " + m
 
 // Only change code below this line
 const myArray = ["cat", 2];
+
+// Only change code below this line
+const myArray1 = [["cat, 2"], ["dog", 3]];

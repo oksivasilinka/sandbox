@@ -1,7 +1,6 @@
 function checkObj(obj, checkProp) {
   // Only change code below this line
-  obj.hasOwnProperty(checkProp);
-  if (true) {
+  if (obj.hasOwnProperty(checkProp)) {
     return obj[checkProp];
   } else {
     return "Not Found";

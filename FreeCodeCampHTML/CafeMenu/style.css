@@ -1,5 +1,7 @@
 body {
-    /* background-color: burlywood; */
+    /*
+    background-color: burlywood;
+    */
   }
   
   h1, h2, p {
@@ -8,4 +10,5 @@ body {
   
   div {
     width: 300px;
+    background-color: burlywood;
   }

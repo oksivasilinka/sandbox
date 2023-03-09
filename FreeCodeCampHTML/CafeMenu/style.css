@@ -1,6 +1,6 @@
 body {
-    font-family: sans-serif;
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    font-family: sans-serif;
   }
   
   h1, h2, p {
@@ -14,6 +14,10 @@ body {
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
+  }
+  
+  h1, h2 {
+    font-family: Impact;
   }
   
   .item p {

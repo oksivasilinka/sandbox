@@ -6,6 +6,7 @@ body {
   h1 {
     font-size: 40px;
   }
+  
   h2 {
     font-size: 30px;
   }
@@ -25,6 +26,10 @@ body {
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
+  }
+  
+  hr {
+    height: 3px;
   }
   
   h1, h2 {
